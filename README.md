@@ -8,6 +8,6 @@ This repository is *not* the original repository for this tool. Here are some li
 
 In this repository, for Memoise you will find:
 
-  *> :x: Source Code (not available)</li>
+  * :x: Source Code (not available)</li>
 
 This repository was constructed by [Ankush Kumar Singh](https://github.com/asingh21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
