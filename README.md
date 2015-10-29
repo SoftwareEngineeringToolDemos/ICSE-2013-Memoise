@@ -1,5 +1,5 @@
 # ICSE-2013-Memoise
-This repository is contains information related to the tool Memoise presented International Conference on Software Engineering, 2013. The tool was originally presented in [this paper] (http://dl.acm.org/citation.cfm?id=2487001)
+This repository contains information related to the tool Memoise presented at International Conference on Software Engineering, 2013. The tool was originally presented in [this paper] (http://dl.acm.org/citation.cfm?id=2487001)
 
 This repository is *not* the original repository for this tool. Here are some links to the original project:
 
