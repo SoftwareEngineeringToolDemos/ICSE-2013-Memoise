@@ -10,4 +10,4 @@ In this repository, for Memoise you will find:
 
   * :x: Source Code (not available)</li>
 
-This repository was constructed by [Ankush Kumar Singh](https://github.com/asingh21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+This repository was constructed by [Ankush Kumar Singh](https://github.com/asingh21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr.Guowei Yang, Dr.	Sarfraz Khurshid and Dr.	Corina S. Păsăreanu for their help in establishing this repository.
